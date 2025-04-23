@@ -6,7 +6,7 @@ import Link from "next/link";
 const page = () => {
   return (
     <ReveloLayout>
-      <Banner pageTitle={"Tour Grid View"} />
+      <Banner pageTitle={"Our Tours"} />
       {/* Tour Grid Area start */}
       <section className="tour-grid-page py-100 rel z-1">
         <div className="container">

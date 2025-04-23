@@ -32,20 +32,10 @@ const Menu = () => {
         >
           <ul className="navigation clearfix">
             <li className="dropdown current">
-              <a href="#">Home</a>
-              <ul>
-                <li>
-                  <Link href="/">Travel Agency</Link>
-                </li>
-                <li>
-                  <Link href="index2">City Tou</Link>
-                </li>
-                <li>
-                  <Link href="index3">Tour Package</Link>
-                </li>
-              </ul>
+              <a href="/">Home</a>
+             
               <div className="dropdown-btn">
-                <span className="far fa-angle-down" />
+                
               </div>
             </li>
             <li>
@@ -55,13 +45,7 @@ const Menu = () => {
               <a href="#">Tours</a>
               <ul>
                 <li>
-                  <Link href="tour-list">Tour List</Link>
-                </li>
-                <li>
-                  <Link href="tour-grid">Tour Grid</Link>
-                </li>
-                <li>
-                  <Link href="tour-sidebar">Tour Sidebar</Link>
+                  <Link href="tour-sidebar">Our Tours</Link>
                 </li>
                 <li>
                   <Link href="tour-details">Tour Details</Link>
@@ -77,11 +61,9 @@ const Menu = () => {
             <li className="dropdown">
               <a href="#">Destinations</a>
               <ul>
+                
                 <li>
-                  <Link href="destination1">Destination 01</Link>
-                </li>
-                <li>
-                  <Link href="destination2">Destination 02</Link>
+                  <Link href="destination2">Destinations</Link>
                 </li>
                 <li>
                   <Link href="destination-details">Destination Details</Link>
@@ -101,17 +83,10 @@ const Menu = () => {
                   <Link href="faqs">faqs</Link>
                 </li>
                 <li className="dropdown">
-                  <a href="#">Gallery</a>
-                  <ul>
-                    <li>
-                      <Link href="gellery-grid">Gallery Grid</Link>
-                    </li>
-                    <li>
-                      <Link href="gellery-slider">Gallery Slider</Link>
-                    </li>
-                  </ul>
+                  <a href="gellery-grid">Gallery</a>
+                 
                   <div className="dropdown-btn">
-                    <span className="far fa-angle-down" />
+                   
                   </div>
                 </li>
                 <li className="dropdown">

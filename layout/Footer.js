@@ -143,9 +143,7 @@ const Footer1 = () => {
                   </Link>
                 </div>
                 <p>
-                  We curate bespoke itineraries tailored to your preferences,
-                  ensuring every trip is seamless and enriching hidden gems
-                  beaten
+                Allow us to curate a personalized itinerary, designed around your unique preferences. We ensure a seamless and enriching travel experience, guiding you to discover hidden gems far from the well-trodden tourist trails
                 </p>
                 <div className="social-style-one mt-15">
                   <Link href="contact">
@@ -214,7 +212,7 @@ const Footer1 = () => {
                 </div>
                 <ul className="list-style-three">
                   <li>
-                    <Link href="destination-details">Best Tour Guide</Link>
+                    <Link href="destination-details">Best Tour&Trekking Guide</Link>
                   </li>
                   <li>
                     <Link href="destination-details">Tour Booking</Link>
@@ -274,19 +272,19 @@ const Footer1 = () => {
                 </div>
                 <ul className="list-style-three">
                   <li>
-                    <Link href="destination-details">African Safaris</Link>
+                    <Link href="destination-details">Trekking</Link>
                   </li>
                   <li>
-                    <Link href="destination-details">Alaska &amp; Canada</Link>
+                    <Link href="destination-details">Pokhara Tour</Link>
                   </li>
                   <li>
-                    <Link href="destination-details">South America</Link>
+                    <Link href="destination-details">Kathamandu City Tour</Link>
                   </li>
                   <li>
-                    <Link href="destination-details">Middle East</Link>
+                    <Link href="destination-details">Chitwan Pakages</Link>
                   </li>
                   <li>
-                    <Link href="destination-details">South America</Link>
+                    <Link href="destination-details">Historical Tours</Link>
                   </li>
                 </ul>
               </div>
@@ -334,21 +332,20 @@ const Footer1 = () => {
                 </div>
                 <ul className="list-style-one">
                   <li>
-                    <i className="fal fa-map-marked-alt" /> 578 Level, D-block
-                    45 Street Melbourne, Australia
+                    <i className="fal fa-map-marked-alt" /> Thamel,Kathamandu
                   </li>
                   <li>
                     <i className="fal fa-envelope" />{" "}
                     <a href="mailto:supportrevelo@gmail.com">
-                      supportrevelo@gmail.com
+                      supporsayamitravel@gmail.com
                     </a>
                   </li>
                   <li>
-                    <i className="fal fa-clock" /> Mon - Fri, 08am - 05pm
+                    <i className="fal fa-clock" /> Sun - Fri, 9:00 AM - 7:00 PM
                   </li>
                   <li>
                     <i className="fal fa-phone-volume" />{" "}
-                    <a href="callto:+88012334588">+880 (123) 345 88</a>
+                    <a href="callto:+88012334588">+977 9849083104</a>
                   </li>
                 </ul>
               </div>
@@ -362,7 +359,7 @@ const Footer1 = () => {
             <div className="col-lg-5">
               <div className="copyright-text text-center text-lg-start">
                 <p>
-                  @Linkopy 202/4 <a href="">Ravelo</a>, All rights reserved
+                  @Linkopy 202/5 <a href="">Dokodotech</a>, All rights reserved
                 </p>
               </div>
             </div>
@@ -421,7 +418,7 @@ const Footer2 = ({ insta }) => {
                 </div>
                 <div className="footer-map">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d96777.16150026117!2d-74.00840582560909!3d40.71171357405996!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1706508986625!5m2!1sen!2sbd"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.051647918522!2d85.3060238755202!3d27.715691576177875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb18fca0d0fd65%3A0xf698922fee899dd8!2sAIT.%20International%20Travels!5e0!3m2!1sen!2snp!4v1745299779570!5m2!1sen!2snp"
                     style={{ border: 0, width: "100%" }}
                     allowFullScreen=""
                     loading="lazy"
@@ -443,7 +440,7 @@ const Footer2 = ({ insta }) => {
                 </div>
                 <ul className="list-style-three">
                   <li>
-                    <Link href="destination-details">Best Tour Guide</Link>
+                    <Link href="destination-details">Best Trekking Guide</Link>
                   </li>
                   <li>
                     <Link href="destination-details">Tour Booking</Link>
@@ -497,16 +494,16 @@ const Footer2 = ({ insta }) => {
                 </div>
                 <ul className="list-style-three">
                   <li>
-                    <Link href="destination-details">African Safaris</Link>
+                    <Link href="destination-details">Kathamandu</Link>
                   </li>
                   <li>
-                    <Link href="destination-details">Alaska &amp; Canada</Link>
+                    <Link href="destination-details">Pokhara</Link>
                   </li>
                   <li>
-                    <Link href="destination-details">South America</Link>
+                    <Link href="destination-details">Chitwan</Link>
                   </li>
                   <li>
-                    <Link href="destination-details">Middle East</Link>
+                    <Link href="destination-details">Lumbini</Link>
                   </li>
                 </ul>
               </div>
@@ -524,18 +521,17 @@ const Footer2 = ({ insta }) => {
                 </div>
                 <ul className="list-style-one">
                   <li>
-                    <i className="fal fa-map-marked-alt" /> 578 Level, D-block
-                    45 Street Melbourne, Australia
+                    <i className="fal fa-map-marked-alt" /> Thamel, Kathmandu
                   </li>
                   <li>
                     <i className="fal fa-envelope" />{" "}
                     <a href="mailto:supportrevelo@gmail.com">
-                      supportrevelo @gmail.com
+                      supportsayamitravel@gmail.com
                     </a>
                   </li>
                   <li>
                     <i className="fal fa-phone-volume" />{" "}
-                    <a href="callto:+88012334588">+880 (123) 345 88</a>
+                    <a href="callto:+88012334588">+977 9849083104</a>
                   </li>
                 </ul>
               </div>
@@ -549,7 +545,7 @@ const Footer2 = ({ insta }) => {
             <div className="col-lg-5">
               <div className="copyright-text text-center text-lg-start">
                 <p>
-                  @Linkopy 202/4 <a href="">Ravelo</a>, All rights reserved
+                  @Linkopy 202/5 <a href="">Dokodotech</a>, All rights reserved
                 </p>
               </div>
             </div>

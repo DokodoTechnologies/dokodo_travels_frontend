@@ -1,4 +1,10 @@
 {
   "/page": "app/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
+  "/tour-sidebar/page": "app/tour-sidebar/page.js",
+  "/tour-details/page": "app/tour-details/page.js",
+  "/tour-guide/page": "app/tour-guide/page.js",
+  "/destination2/page": "app/destination2/page.js",
+  "/destination-details/page": "app/destination-details/page.js",
+  "/gellery-grid/page": "app/gellery-grid/page.js",
+  "/blog/page": "app/blog/page.js"
 }

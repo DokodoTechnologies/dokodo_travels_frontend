@@ -6,7 +6,7 @@ import Link from "next/link";
 const page = () => {
   return (
     <ReveloLayout>
-      <Banner pageTitle={"Destination 02"} search={true} />
+      <Banner pageTitle={"Destinations"} search={true} />
       {/* Page Banner End */}
       {/* Popular Destinations Area start */}
       <section className="popular-destinations-area pt-100 pb-90 rel z-1">

@@ -6,7 +6,7 @@ import Link from "next/link";
 const page = () => {
   return (
     <ReveloLayout>
-      <Banner pageTitle={"Gallery Grid"} />
+      <Banner pageTitle={"Gallery"} />
       {/* Gallery Area start */}
       <section className="gallery-two-area py-100 rel z-1">
         <div className="container">

@@ -1,4 +1,4 @@
-// File: /home/prasannajung/Documents/envato_projects/ravelo/Ravelo/react-frontend/app/layout.js
+// File: C:\Users\ACER\Desktop\travel\dokodo_travels_frontend\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
